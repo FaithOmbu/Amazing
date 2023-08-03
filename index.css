@@ -1,0 +1,28 @@
+h2 {
+  font-size: medium;
+}
+h2 {
+  color: aliceblue;
+}
+h1 {
+  color: aliceblue;
+}
+#divOne {
+  background-color: rgb(206, 121, 121);
+}
+.divTwo {
+  background-color: rgb(253, 150, 147);
+  text-align: left;
+}
+h3 {
+  color: aliceblue;
+}
+ul {
+  color: aliceblue;
+}
+body {
+  background-color: rgba(138, 61, 61, 0.904);
+}
+p {
+  color: aliceblue;
+}
